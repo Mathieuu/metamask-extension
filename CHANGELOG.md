@@ -2,6 +2,7 @@
 
 ## Current Master
 
+- Fix bug where a user could be shown two different seed phrases.
 - Detect when multiple web3 extensions are active, and provide useful error.
 - Detect when provider changes from under MetaMask and reset provider state.
 
